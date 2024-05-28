@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estudiantes.xsl"?>
+<aula>
+    <estudiante>
+        <nombre>Juan</nombre>
+        <apellidos>Pérez García</apellidos>
+        <dni>12345678A</dni>
+        <sexo>Masculino</sexo>
+        <fecha_nacimiento>
+            <dia>15</dia>
+            <mes>07</mes>
+            <año>1999</año>
+        </fecha_nacimiento>
+        <direccion>
+            <calle>Calle Mayor</calle>
+            <localidad>Aranjuez</localidad>
+            <provincia>Madrid</provincia>
+            <codigo_postal>28001</codigo_postal>
+        </direccion>
+        <telefonos>
+            <telefono tipo="fijo">912345678</telefono>
+            <telefono tipo="móvil">600123456</telefono>
+        </telefonos>
+        <nota_media>8.5</nota_media>
+    </estudiante>
+    <estudiante>
+        <nombre>Carmen</nombre>
+        <apellidos>Moraleda Sánchez</apellidos>
+        <dni>012345678C</dni>
+        <sexo>Femenino</sexo>
+        <fecha_nacimiento>
+            <dia>1</dia>
+            <mes>10</mes>
+            <año>2000</año>
+        </fecha_nacimiento>
+        <direccion>
+            <calle>Calle Saliente</calle>
+            <localidad>Vigo</localidad>
+            <provincia>Pontevedra</provincia>
+            <codigo_postal>36021</codigo_postal>
+        </direccion>
+        <telefonos>
+            <telefono tipo="fijo">986345668</telefono>
+            <telefono tipo="móvil">649184729</telefono>
+        </telefonos>
+        <nota_media>4.8</nota_media>
+    </estudiante>
+    <estudiante>
+        <nombre>María</nombre>
+        <apellidos>López Fernández</apellidos>
+        <dni>87654321B</dni>
+        <sexo>Femenino</sexo>
+        <fecha_nacimiento>
+            <dia>20</dia>
+            <mes>05</mes>
+            <año>2000</año>
+        </fecha_nacimiento>
+        <direccion>
+            <calle>Calle Nueva</calle>
+            <localidad>Badalona</localidad>
+            <provincia>Barcelona</provincia>
+            <codigo_postal>08002</codigo_postal>
+        </direccion>
+        <telefonos>
+            <telefono tipo="fijo">933456789</telefono>
+            <telefono tipo="móvil">600654321</telefono>
+        </telefonos>
+        <nota_media>9.2</nota_media>
+    </estudiante>
+    <estudiante>
+        <nombre>Pedro</nombre>
+        <apellidos>González Martínez</apellidos>
+        <dni>23456789C</dni>
+        <!-- No tiene sexo -->
+        <fecha_nacimiento>
+            <dia>10</dia>
+            <mes>11</mes>
+            <año>1998</año>
+        </fecha_nacimiento>
+        <direccion>
+            <calle>Avenida del Sol</calle>
+            <localidad>Dos Hermanas</localidad>
+            <provincia>Sevilla</provincia>
+            <codigo_postal>41003</codigo_postal>
+        </direccion>
+        <telefonos>
+            <telefono tipo="fijo">954123456</telefono>
+            <telefono tipo="móvil">600789012</telefono>
+        </telefonos>
+        <nota_media>5.5</nota_media>
+    </estudiante>
+    <estudiante>
+        <nombre>Luis</nombre>
+        <apellidos>Martín Escribano</apellidos>
+        <dni>87698651B</dni>
+        <sexo>Masculino</sexo>
+        <fecha_nacimiento>
+            <dia>21</dia>
+            <mes>11</mes>
+            <año>2001</año>
+        </fecha_nacimiento>
+        <direccion>
+            <calle>Calle Sol</calle>
+            <localidad>Portugalete</localidad>
+            <provincia>Vizcaya</provincia>
+            <codigo_postal>48920</codigo_postal>
+        </direccion>
+        <telefonos>
+            <telefono tipo="fijo">94343698</telefono>
+            <telefono tipo="móvil">620623551</telefono>
+        </telefonos>
+        <nota_media>3.2</nota_media>
+    </estudiante>
+</aula>
